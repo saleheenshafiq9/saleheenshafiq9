@@ -1,11 +1,36 @@
+<h1 align="center">Hi 👋, I'm Shafiq Saleheen</h1>
+<h3 align="center">Passionate in web development and project management, dedicated to crafting innovative solutions.</h3>
+<br>
+
+- 🔭 I’m currently working on **Pharmaceutical Supply Chain**
+
+- 🌱 I’m currently learning **Machine Learning and Android**
+
+- 👨‍💻 All of my projects are available at [saleheenshafiq9.github.io](saleheenshafiq9.github.io)
+
+- 📫 How to reach me **bsse1125@iit.du.ac.bd**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shafiq-saleheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiq-saleheen" height="30" width="40" /></a>
+<a href="https://kaggle.com/shafiqussaleheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shafiqussaleheen" height="30" width="40" /></a>
+<a href="https://fb.com/shafiq.saleheen.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafiq.saleheen.5" height="30" width="40" /></a>
+<a href="https://instagram.com/dreamfyre_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamfyre_9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bsse1125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsse1125" height="30" width="40" /></a>
+</p>
+
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saleheenshafiq9&theme=darcula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleheenshafiq9&layout=compact&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saleheenshafiq9&theme=darcula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saleheenshafiq9&theme=darcula)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleheenshafiq9&layout=compact&theme=darcula)
-
+<br>
+<br>
 📋 **Languages**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
