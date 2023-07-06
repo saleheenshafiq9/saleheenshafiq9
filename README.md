@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shafiq Saleheen</h1>
-<h3 align="center">Passionate in web development and project management, dedicated to crafting innovative solutions.</h3>
+<h1 align="center">---- Hey, This is Shafiq Saleheen 😃 ----</h1>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Undergraduate+Software+Engineering+Student;From+IIT+DU;"></a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saleheenshafiq9&label=Profile%20views&color=0e75b6&style=flat" alt="saleheenshafiq9" /> </p>
 <br>
 
 - 🔭 I’m currently working on **Pharmaceutical Supply Chain**
@@ -21,6 +26,8 @@
 </p>
 
 <br>
+<h3 align="left">Profile Statistics:</h3>
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saleheenshafiq9&theme=darcula)
 
@@ -31,6 +38,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saleheenshafiq9&theme=darcula)](https://git.io/streak-stats)
 <br>
 <br>
+<h3 align="left">Skills & Expertise:</h3>
+<br>
+
 📋 **Languages**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
