@@ -10,13 +10,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **Pharmaceutical Supply Chain**
+- 🔭 Currently, I am actively engaged in the development of **Pharmaceutical Supply Chain**
 
-- 🌱 I’m currently learning **Machine Learning and Android**
+- 🌱 My ongoing learning journey encompasses **Machine Learning and Android**
 
-- 👨‍💻 All of my projects are available at [saleheenshafiq9.github.io](saleheenshafiq9.github.io)
+- 👨‍💻 Feel free to reach out to me for discussions on [saleheenshafiq9.github.io](saleheenshafiq9.github.io)
 
-- 📫 How to reach me **bsse1125@iit.du.ac.bd**
+- 📫 You can contact me at **bsse1125@iit.du.ac.bd**
 
 <br>
 <h3 align="left">Connect with me:</h3>
