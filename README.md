@@ -3,7 +3,7 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Undergraduate+Software+Engineering+Student;From+IIT+DU;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23F6A227&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Undergraduate+Software+Engineering+Student;From+IIT+DU;"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saleheenshafiq9&label=Profile%20views&color=0e75b6&style=flat" alt="saleheenshafiq9" /> </p>
