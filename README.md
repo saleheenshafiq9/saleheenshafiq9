@@ -1,10 +1,11 @@
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%000&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%230F52BA&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----&repeat=false">
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%061A40&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineering+Student;at+Samsung+R&D+Institute+Bangladesh;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%230F52BA&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineering+Student;at+Samsung+R&D+Institute+Bangladesh;"></a>
 </p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saleheenshafiq9&label=Profile%20views&color=0e75b6&style=flat" alt="saleheenshafiq9" /> </p>
 
