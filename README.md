@@ -1,22 +1,22 @@
-<div align="center" style="background-color: #0353A4; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F69C17&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----&repeat=false">
+<div align="center" style="background-color: #222; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%061A40&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----&repeat=false">
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%0353A4&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineering+Student;at+Samsung+R&D+Institute+Bangladesh;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%061A40&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineering+Student;at+Samsung+R&D+Institute+Bangladesh;"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saleheenshafiq9&label=Profile%20views&color=0e75b6&style=flat" alt="saleheenshafiq9" /> </p>
 
 <br>
 
-- 🔭 Currently, I am actively engaged in the development of **Pharmaceutical Supply Chain**
+- 🔭 Currently, I am contributing in the development of **Next SmartThings Web**
 
-- 🌱 My ongoing learning journey encompasses **Machine Learning and Android**
+- 🌱 I'm very much enthusiastic about **Human-Computer Interaction**
 
 - 👨‍💻 Feel free to reach out to me for discussions on [saleheenshafiq9.github.io](saleheenshafiq9.github.io)
 
-- 📫 You can contact me at **bsse1125@iit.du.ac.bd**
+- 📫 You can contact me at **saleheen.shafiq100@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
