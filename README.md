@@ -3,7 +3,7 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%230F52BA&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineer;Samsung+R&D+Institute+Bangladesh;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%230F52BA&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineer;Samsung+RnD+Institute+Bangladesh;"></a>
 </p>
 
 
@@ -59,6 +59,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 📚 **Frameworks and Platforms**
 
