@@ -11,9 +11,11 @@
 
 <br>
 
+- 👨🏻‍💻 I’m a Software Engineer at Samsung R&D Institute Bangladesh.
+
 - 🔭 Currently, I am contributing in the development of **Next SmartThings Web**
 
-- 🌱 I'm very much enthusiastic about **Human-Computer Interaction**
+- 🔐 My research focuses on software security and privacy, integrating human factors to develop systems that are both reliable and accessible.
 
 - 👨‍💻 Feel free to reach out to me for discussions on [saleheenshafiq9.github.io](saleheenshafiq9.github.io)
 
