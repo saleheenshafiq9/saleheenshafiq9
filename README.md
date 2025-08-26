@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%230F52BA&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%230F52BA&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----">
 </div>
 <br>
 <p align="center">
