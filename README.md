@@ -1,9 +1,12 @@
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%230F52BA&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Shafiq+Saleheen+%F0%9F%98%83+----">
+  <h1 style="color: #0F52BA; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 32px; margin: 0;">
+    ---- Hey, This is Shafiq Saleheen 😃 ----
+  </h1>
 </div>
 <br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%230F52BA&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+and+Project+Management;Dedicated+to+Crafting+Innovative+Solutions;Software+Engineer;Samsung+RnD+Institute+Bangladesh;"></a>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 25px; color: #0F52BA; line-height: 1.6;">
+  Computer Science PhD Student <br>
+  Purdue University
 </p>
 
 
