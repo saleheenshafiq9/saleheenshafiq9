@@ -7,6 +7,8 @@
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 25px; color: #0F52BA; line-height: 1.6;">
   Computer Science PhD Student <br>
   Purdue University <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1920px-Purdue_Boilermakers_logo.svg.png" 
+       alt="Purdue Logo" width="90" height="90" />
 </p>
 
 
