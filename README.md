@@ -6,7 +6,7 @@
 <br>
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 25px; color: #0F52BA; line-height: 1.6;">
   Computer Science PhD Student <br>
-  Purdue University <br>
+  Purdue University <br><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1920px-Purdue_Boilermakers_logo.svg.png" 
        alt="Purdue Logo" width="90" height="90" />
 </p>
@@ -16,9 +16,9 @@
 
 <br>
 
-- 👨🏻‍💻 I’m a Software Engineer at Samsung R&D Institute Bangladesh.
+- 👨🏻‍💻 I’m a Computer Science PhD Student at Purdue University.
 
-- 🔭 Currently, I am contributing in the development of **Next SmartThings Web**
+- 🔭 Currently, I am part of the [**PurSec Lab**](https://pursec.cs.purdue.edu/)
 
 - 🔐 My research focuses on software security and privacy, integrating human factors to develop systems that are both reliable and accessible.
 
