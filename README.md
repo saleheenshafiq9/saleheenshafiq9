@@ -7,7 +7,6 @@
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 25px; color: #0F52BA; line-height: 1.6;">
   Computer Science PhD Student <br>
   Purdue University <br>
-  <a rel="nofollow" class="external free" href="http://www.ces.purdue.edu/ktgmarketing/StandardsManual_screen.pdf">http://www.ces.purdue.edu/ktgmarketing/StandardsManual_screen.pdf</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=11184317">Link</a>
 </p>
 
 
